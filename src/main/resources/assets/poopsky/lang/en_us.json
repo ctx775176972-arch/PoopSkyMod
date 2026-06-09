@@ -1,0 +1,13 @@
+{
+  "itemGroup.poopsky": "Example Mod Tab",
+  "block.poopsky.example_block": "Example Block",
+  "item.poopsky.example_item": "Example Item",
+
+  "poopsky.configuration.title": "PoopSky Configs",
+  "poopsky.configuration.section.poopsky.common.toml": "PoopSky Configs",
+  "poopsky.configuration.section.poopsky.common.toml.title": "PoopSky Configs",
+  "poopsky.configuration.items": "Item List",
+  "poopsky.configuration.logDirtBlock": "Log Dirt Block",
+  "poopsky.configuration.magicNumberIntroduction": "Magic Number Text",
+  "poopsky.configuration.magicNumber": "Magic Number"
+}
